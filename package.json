@@ -1,0 +1,22 @@
+{
+  "name": "reactiongame",
+  "version": "1.0.0",
+  "description": "Play and Improve your Reaction Time",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "webpack js/Reaction.js src/static/js/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ana Wan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.14",
+    "webpack": "^4.5.0"
+  }
+}
