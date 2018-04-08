@@ -1,4 +1,4 @@
-# Reaction-Tester-Game
+# Reaction Tester Game
 
 ReactionTester is my side-project that helps test and improve your reaction time. Try clicking on the objects that appear on the screen as fast as possible. Challenge yourself to improve your time!
 
@@ -6,9 +6,9 @@ The game is currently hosted on the free cloud application platform, Heroku (htt
 
 ## How to play ?
 
-Click on the following link: https://reaction-tester-game.herokuapp.com/
+Click on the following link: https://reaction-tester-game.herokuapp.com
 
-## To Play Locally:
+## How to Play Locally:
 
 1. Clone repository:
   ```
